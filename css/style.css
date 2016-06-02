@@ -1,0 +1,137 @@
+
+@media screen and (min-width: 601px) and (max-width: 2500px){
+	body {
+	font-family: helvetica;
+	font-kerning: 1px;
+	color: white;
+	background-image: url('../image/background1.jpg');
+	background-size: cover;
+	font-weight: lighter;
+	margin-top: 600px;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% auto;
+	background-color: gray;
+	float: right;
+}
+
+header {
+	width: 75% auto;
+	display: inline-block;
+	background-color:rgba(255,255,255,0.50);
+	padding: 20px;
+	float: right;
+}
+nav { width: 20% auto;
+	display: inline-block;
+	vertical-align: top;
+	list-style-type: none;
+	font-size: 35px;
+	padding:10px;
+	float: right;
+}
+
+nav {width: 30% auto;}
+
+p { float:right}
+
+section {
+	font-size: 50px;
+	display: inline-block;
+	width: 75% auto;
+	padding: 20px;
+	float: right;
+	text-align: right; }
+
+	a:link    {color:white; background-color:transparent; text-decoration:none}
+	a:visited {color:white; background-color:transparent; text-decoration:none}
+	a:hover   {color:white; background-color:transparent; text-decoration:none}
+	a:active  {color:white; background-color:transparent; text-decoration:none;}
+	}
+/*
+@media screen and (min-width: 0px) and (max-width: 675px){
+
+	body {
+	background-color: rgba(91, 79, 70, 0.7);
+	margin-top: 0px;
+	background-image: url('../image/background11.jpg');
+	background-size: cover;
+	font-family: helvetica;
+	font-kerning: 1px;
+	float: center;
+	float: right;
+	padding: 10px auto;
+	display: inline;
+	margin-left: 30px;
+	left: 50%;
+	right: 10%;
+	text-transform: uppercase;
+	text-align: center;
+}
+	}
+
+	header {
+		width: auto;
+		padding: auto;
+	}
+	section { 
+	font-size: 40px;
+	display: inline-block;
+	width: 80%;
+	padding: 10px;
+	float: center;
+	text-align: center; 
+	border-top: solid;
+	border-bottom: solid;
+	margin-top: 50%;
+
+    }
+nav { width: auto;
+	display: inline-block;
+	vertical-align: top;
+	list-style-type: none;
+	font-size: 20px;
+	padding:8px;
+	text-align: center;
+	float: center;
+	border: solid;
+	margin: 9px;
+	margin-top: 15px;
+	}
+
+main{width: 70%;
+}
+	aside{ width: 25%;
+}
+
+a:link    {color:white; background-color:transparent; text-decoration:none}
+a:visited {color:white; background-color:transparent; text-decoration:none}
+a:hover   {color:white; background-color:transparent; text-decoration:none}
+a:active  {color:white; background-color:transparent; text-decoration:none;}
+}
+@media screen and (min-width: 0px) and (max-width: 570px){
+
+	body {
+		background-color: black}
+main, aside, main ul li{ display: block;
+
+	width: 98%;
+}
+
+a:link    {color:white; background-color:transparent; text-decoration:none}
+a:visited {color:white; background-color:transparent; text-decoration:none}
+a:hover   {color:white; background-color:transparent; text-decoration:none}
+a:active  {color:white; background-color:transparent; text-decoration:none;}
+}
+
+
+*/
+
+
+
+
+
+
+
+
+
